@@ -1,2 +1,7 @@
-sussified.gif
-ffmpeg.exe
+*.gif
+*.jpg
+*.jpeg
+*.png
+*.exe
+.idea
+!twerk_imgs/*.png
